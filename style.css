@@ -2,7 +2,7 @@ img.kitty{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 50%;
+    height: 40%;
 }
 
 p#headline{
@@ -23,6 +23,7 @@ p.sectionHeading{
 
 div.content{
     padding: 0px;
+    max-width: 900px;
 }
 
 div#aboutMe{
@@ -32,7 +33,7 @@ div#aboutMe{
     border-style: solid;
     float: left;
     width: 45%;
-    height: 300px;
+    height: 350px;
 }
 
 div#contactBox{
@@ -40,7 +41,7 @@ div#contactBox{
     padding-right: 20px;
     border-color: red;
     border-style: solid;
-    height: 300px;
+    height: 350px;
 }
 
 div#innerBox{
