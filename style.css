@@ -16,14 +16,20 @@ p.sectionHeading{
     font-style: italic;
 }
 
+div.content{
+    padding: 5px;
+}
+
 div#aboutMe{
+    padding: 20px;
     border-color: red;
     border-style: solid;
     float: left;
     width: 50%;
 }
 
-div#contactMe{
+div#contactBox{
+    padding: 20px;
     border-color: red;
     border-style: solid;
     width: 50%;
