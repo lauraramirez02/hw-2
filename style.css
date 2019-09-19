@@ -33,7 +33,7 @@ div#aboutMe{
     border-style: solid;
     float: left;
     width: 45%;
-    height: 350px;
+    height: 400px;
 }
 
 div#contactBox{
@@ -41,7 +41,7 @@ div#contactBox{
     padding-right: 5px;
     border-color: red;
     border-style: solid;
-    height: 350px;
+    height: 400px;
 }
 
 div#innerBox{
