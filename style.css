@@ -2,7 +2,7 @@ img.kitty{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 20%;
+    height: 250px;
 }
 
 p#headline{
@@ -47,4 +47,10 @@ div#contactBox{
 div#innerBox{
     border-radius: 50px;
     border-color: gray;
+    border-style: solid;
+    width: 40%;
+    margin-left: auto;
+    margin-right: 40px;
+    padding: 50px;
+    float: right;ay;
 }
