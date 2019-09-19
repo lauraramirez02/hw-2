@@ -5,9 +5,15 @@ img.kitty{
     width: 50%;
 }
 
-.sectionTitle{
+p.sectionTitle{
     text-align: center;
     font-size: 16px;
+}
+
+p.sectionHeading{
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
 }
 
 div#aboutMe{
