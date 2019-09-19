@@ -45,12 +45,12 @@ div#contactBox{
 }
 
 div#innerBox{
-    border-radius: 50px;
+    border-radius: 25px;
     border-color: gray;
     border-style: solid;
     width: 25%;
     margin-left: auto;
     margin-right: 40px;
-    padding: 50px;
+    padding: 30px;
     float: right;
 }
