@@ -2,7 +2,12 @@ img.kitty{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    height: 50%;
+}
+
+p#headline{
+    font-style: italic;
+    text-align: center;
 }
 
 p.sectionTitle{
@@ -17,7 +22,7 @@ p.sectionHeading{
 }
 
 div.content{
-    padding: 5px;
+    padding: 0px;
 }
 
 div#aboutMe{
