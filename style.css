@@ -2,7 +2,7 @@ img.kitty{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 40%;
+    height: 20%;
 }
 
 p#headline{
@@ -27,8 +27,8 @@ div.content{
 }
 
 div#aboutMe{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
     border-color: red;
     border-style: solid;
     float: left;
@@ -37,8 +37,8 @@ div#aboutMe{
 }
 
 div#contactBox{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
     border-color: red;
     border-style: solid;
     height: 350px;
