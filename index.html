@@ -39,12 +39,12 @@ h1 {
 
 
 <div>
-    <img src= "images/cat.png">
+    <img src= "images/cat.png" class="kitty">
 </div>
 
-<div>
-    <div>
-        <p2>About Me</p2>
+<div id="content">
+    <div id="aboutMe">
+        <p2 class="sectionTitle">About Me</p2>
         <style>
             p2 {
         text-align: center;
@@ -64,12 +64,15 @@ h1 {
         <strong><i><u>Expectation for this course</u></i></strong>
         I’d like you to cover the Angular and best practices of Web design. More examples on CSS are welcome. Please change this part to what you want to learn from this class.
     </div>
-    <div>
-        Contact Me
-        <div>
-            Name: <input>
-            E-mail: <input>
-            Message: <input>
+    <div id="contactBox">
+        <p2 class="sectionTitle">Contact Me</p2>
+        <div id="innerBox">
+            Name: </br>
+            <input>
+            E-mail: </br>
+            <input>
+            Message: </br>
+            <input>
             <button>Send your message</button>
         </div>
     </div>
