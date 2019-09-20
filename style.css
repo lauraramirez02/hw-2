@@ -41,14 +41,14 @@ div#contactBox{
     padding-right: 5px;
     border-color: red;
     border-style: solid;
-    height: 400px;
+    height: 300px;
 }
 
 div#innerBox{
     border-radius: 25px;
     border-color: gray;
     border-style: solid;
-    width: 40%;
+    width: 30%;
     margin-left: auto;
     margin-right: 40px;
     padding: 30px;
